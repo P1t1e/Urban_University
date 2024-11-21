@@ -1,0 +1,7 @@
+print("job")
+print(4 + 3.1)
+print(type(4.23))
+print('привет')
+print(type(False), type(True), 389-95 == 294 and 5<22, 6+7 )
+print(int('15'))
+print(type('5'))
